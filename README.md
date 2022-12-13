@@ -1,16 +1,25 @@
-### Hi there 👋
+# 靓仔 / 靓妹 你好！
 
-<!--
-**Staleness7/Staleness7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+无论你是条子，还是菠菜老板，又或者是技术达人，请认真阅读说明文档
 
-Here are some ideas to get you started:
+本人也是无奈，夹缝求生，账号全部是匿名的，邮箱都是假的，服务器套了反向代理
+收钱用的虚拟币，聊天用的第三方平台，阅后即焚
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+当你看到本项目时，也许是一天，也许是一月，也许是一年，如果还能跑，或者没被删，那么恭喜你，大概率我还是自给自足的，没有包吃包住包首饰
+
+关于这个项目，我删除了游戏核心玩法的逻辑，客户端和服务端
+
+关于我提出的 参与开发 退保证金一事，我只接受虚拟币，退还也是虚拟币，当你缴纳押金之后，我会给你开一个编辑权限，之后根据你的代码贡献来退还你的押金，当然也许以后我也不需要了，只是我希望这个项目能一直更新下去，不要像 beimi 一样，中道中止；
+
+代码方法最好写好备注，像我第一次遇见这玩意的时候就像个二愣子，经过半个月的摩擦，我觉得诶嘿，能用，还行，哈哈哈
+
+你要是有兴趣，可以代码格式化下，我看的脑瓜子疼，对了，不要随手 把 == 替换成了 === 小心报错哦，靓仔，还有 test++ 和 ++test 是有区别的哦
+
+```js
+/** 函数名
+ * 函数是干嘛的
+ * @parms test {Object} 测试
+ * @deprecated 为什么弃用？
+ * @example 示例数据
+ * @return {Object}
+*/
